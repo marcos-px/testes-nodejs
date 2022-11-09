@@ -11,6 +11,8 @@
         "sourceType": "module"
     },
     "rules": {
-    }
+    },
+    "eslint linebreak-style":[
+        "error", "windows"
+    ]
 }
-
